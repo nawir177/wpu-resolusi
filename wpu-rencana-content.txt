@@ -10,8 +10,10 @@ RENCANA KONTEN WPU
 - PHP Frameworks
   ^ Laravel
   ^ Belajar Livewire
+  ^ Belajar Spatiy Permssion
   
 - Interview
 - Vlogs
 - Python
 -Jquery reqwes Ajax
+-
